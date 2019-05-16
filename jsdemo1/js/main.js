@@ -1,4 +1,4 @@
-var wordToDisplay = "Hello Again...";
+var wordToDisplay = "Hello...";
 
 var red = [0, 100, 63];
 var green = [75, 100, 40];
